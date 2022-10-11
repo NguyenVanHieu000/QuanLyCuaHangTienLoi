@@ -1,0 +1,89 @@
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.pdb
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.pdb
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.pdb
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.xml
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.pdb
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.xml
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\System.IO.Packaging.dll
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Phát triền phần mềm và ứng dụng thông minh\Đồ án\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI.mdf
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI_log.ldf
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\System.IO.Packaging.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Document.NET.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Words.NET.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.pdb
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csprojAssemblyReference.cache
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\fcpha\OneDrive\Desktop\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI.mdf
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI_log.ldf
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\System.IO.Packaging.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\Admin\OneDrive\Máy tính\QuanLyCuaHangTienLoi (1)\QuanLyCuaHangTienLoi\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.pdb
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI.mdf
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\QL_CUAHANGTIENLOI_log.ldf
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\System.IO.Packaging.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Document.NET.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Xceed.Words.NET.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.pdb
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelDataReader.xml
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\ExcelNumberFormat.xml
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\bin\Debug\Z.Dapper.Plus.xml
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\BaiTap\PTUDPMem\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_All\DAMH_Nhom3_2001180143_NguyenLuongDong_PhanMemQuanLyCuaHangTienLoi_PhanCode\QuanLyCuaHangTienLoi\BLL_DAL\obj\Debug\BLL_DAL.pdb
